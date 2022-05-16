@@ -4,6 +4,7 @@ public class Examen16Dam {
 
 	public static void main(String[] args) {
 
+		System.out.println("Buenos dias ceinmark, soy Ariana Hoyos, introduce un nuemos:");
 			boolean=false;
 				
 			public static boolean esPrimo(int numero) {
